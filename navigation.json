@@ -2,9 +2,10 @@
     "navigation":
     [
         {
-            "text": "Home",
-            "target": "index.md",
-            "toc": false
+            "text": "",
+            "target": "docs/_vnote.json",
+            "navi": true,
+            "navi_index": "Welcome.md"
         }
     ],
     "actions":
