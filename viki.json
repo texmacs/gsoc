@@ -1,6 +1,6 @@
 {
     "brand": "viki",
-    "title": "Viki - A simple Wiki page in Markdown from notebook of VNote",
+    "title": "GSoC for GNU TeXmacs",
     "favicon": "https://github.com/tamlok/viki/raw/master/resources/viki.ico",
     "footer": "",
     "show_suffix": false,
