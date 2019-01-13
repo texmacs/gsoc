@@ -7,3 +7,4 @@
 
 ## Get Started
 + [Frequent Asked Questions](FAQ.md)
++ [Contribution Guide for Developers](https://github.com/texmacs/texmacs/wiki)
