@@ -5,6 +5,6 @@
 + [Documentation](https://github.com/texmacs/doc)
 + [Documentation for Developers](https://github.com/texmacs/devel)
 
-## Get Started
+## Getting Started
 + [Frequent Asked Questions](FAQ.md)
 + [Contribution Guide for Developers](https://github.com/texmacs/texmacs/wiki)
