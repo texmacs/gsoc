@@ -18,3 +18,6 @@ After cloning the subproject, just using GNU TeXmacs to open the tm files. Feel 
 ## Source Code Management 101
 1. [Source Code Management for GNU TeXmacs](https://texmacs.github.io/gsoc/#!docs/SCM.md)
 2. [A 10 Minutes Hello World Guide for Github](https://guides.github.com/activities/hello-world/)
+
+## Mentors
+Darcy Shen, Denis Raux, Joris van der Hoeven, Massimiliano Gubinelli, Philippe Joyez
