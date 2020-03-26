@@ -11,3 +11,8 @@ First of all, please visit our main site: [http://texmacs.org](http://texmacs.or
 + [Frequent Asked Questions](FAQ.md)
 + [Contribution Guide for Developers](https://github.com/texmacs/texmacs/wiki)
 + [Step by step guide to make a debian package for GNU Guile 1.8.8](http://forum.texmacs.cn/t/step-by-step-guide-to-make-a-debian-package-for-gnu-guile-1-8-8/12)
+
+## Contact us
+1. TeXmacs developers' mail list
+2. The Gitter channel: [https://gitter.im/texmacs/Lobby](https://gitter.im/texmacs/Lobby)
+3. The discourse forum: [http://forum.texmacs.cn/](http://forum.texmacs.cn/)
