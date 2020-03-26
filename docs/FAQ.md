@@ -9,4 +9,4 @@
 
 + Q: Why not use C++ standard library?
 
-  A: GNU TeXmacs is twenty years old at least. There are many great and "legacy" code.
+  A: GNU TeXmacs is twenty years old at least. C++ standard library evolves. If we use it, we have to follow it. For a relatively large code base, it is a good idea to avoid the usage of standard libraries.
